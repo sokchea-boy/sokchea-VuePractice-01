@@ -22,7 +22,7 @@
     import { ref } from 'vue';
     const navItems = ref([
         {label: "Home", path: "/", icon: "home"},
-        {label: "About", path: "/about", icon: ""},
+        {label: "About", path: "/about", icon: "person"},
         {label: "Contace", path: "/contace", icon: "contact_page"},
     ])
    
