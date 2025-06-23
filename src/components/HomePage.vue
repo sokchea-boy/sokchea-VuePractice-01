@@ -48,9 +48,9 @@
     </div>
     <div class="mt-10">
         <div class=" h-80 bg-blue-300 flex items-center justify-center gap-20">
-            <div class="">
+            <div class=" ">
                 <div class=" flex items-center justify-center overflow-hidden">
-                    <img src="/src/assets/image/naturs.png" alt="Farm Field" class="w-30 h-30 rounded bg-blue-500 object-cover mt-10 ">
+                    <img src="/src/assets/image/naturs.png" alt="Farm Field" class="w-30 h-30 rounded bg-blue-500 object-cover mt-0 ">
                     <div class="p-4 w-100">
                         <a href="#" class="text-blue-800 font-semibold underline hover:text-blue-600">
                             State Agricultural Trade by Country of Origin and Destination
@@ -60,7 +60,7 @@
                     <div class="h-2 bg-gray-500"></div>
                 </div>
                 <div class=" flex items-center justify-center overflow-hidden">
-                    <img src="/src/assets/image/naturs.png" alt="Farm Field" class="w-30 h-30 rounded bg-blue-500 object-cover mt-10 ">
+                    <img src="/src/assets/image/naturs.png" alt="Farm Field" class="w-30 h-30 rounded bg-blue-500 object-cover mt-5 ">
                     <div class="p-4 w-100">
                         <a href="#" class="text-blue-800 font-semibold underline hover:text-blue-600">
                             State Agricultural Trade by Country of Origin and Destination
@@ -72,7 +72,7 @@
             </div>
             <div class="">
                 <div class=" flex items-center justify-center overflow-hidden">
-                    <img src="/src/assets/image/naturs.png" alt="Farm Field" class="w-30 h-30 rounded bg-blue-500 object-cover mt-10 ">
+                    <img src="/src/assets/image/naturs.png" alt="Farm Field" class="w-30 h-30 rounded bg-blue-500 object-cover mt-0">
                     <div class="p-4 w-100">
                         <a href="#" class="text-blue-800 font-semibold underline hover:text-blue-600">
                             State Agricultural Trade by Country of Origin and Destination
@@ -82,7 +82,7 @@
                     <div class="h-2 bg-gray-500"></div>
                 </div>
                 <div class=" flex items-center justify-center overflow-hidden">
-                    <img src="/src/assets/image/naturs.png" alt="Farm Field" class="w-30 h-30 rounded bg-blue-500 object-cover mt-10 ">
+                    <img src="/src/assets/image/naturs.png" alt="Farm Field" class="w-30 h-30 rounded bg-blue-500 object-cover mt-5">
                     <div class="p-4 w-100">
                         <a href="#" class="text-blue-800 font-semibold underline hover:text-blue-600">
                             State Agricultural 
